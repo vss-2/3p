@@ -23,5 +23,5 @@
     "docs": "https://github.com/jhonis/e-calendar",
     "download": "https://github.com/jhonis/e-calendar",
     "dependencies": {
-        "jquery": ">=1.11.0"
+        "jquery": ">=1.12.4"
     }
